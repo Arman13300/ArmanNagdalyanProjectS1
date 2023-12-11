@@ -1,0 +1,3 @@
+
+Random Sensor Events:
+[14:14:57] Hijack sensor activated.
